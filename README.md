@@ -1,8 +1,6 @@
-# React + Vite
+<h1>Personal Portfolio Design </h1>br
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>I'm going to show you how to use modern HTML and CSS in (React) to create a completely responsive Portfolio Design with awesome color theme. We'll be using CSS Flexbox, Media queries for our responsive design and CSS transition for some cool animation effects. Also we have a great footer for it! This project contains Navbar, Main section, Guarantee section, About section, Skills section and an awesome Footer!</p>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>Live Host</h3>
+<a herf="https://66ba293e059d03af6068f5f6--velvety-baklava-86d5f7.netlify.app/">Click me!</a>
